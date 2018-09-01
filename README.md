@@ -1,5 +1,5 @@
 # DockerProject1
-These are the files used to build a docker image for IBM Websphere 9 - Docker for Windows (Windows container)
+These are the files used to build a docker image for IBM Websphere 9 server edition- Docker for Windows (Windows container)
 
 The dockerfile has the set of steps to build an image for IBM Websphere 9 on top of a windowsservercore OS
 
